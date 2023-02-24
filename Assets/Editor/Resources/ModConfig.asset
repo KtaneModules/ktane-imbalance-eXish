@@ -15,10 +15,9 @@ MonoBehaviour:
   title: Imbalance
   author: eXish
   description: "Multiply two numbers in imbalanced negabinary and input the result
-    based on the last digit of the bomb timer.\n\r\nThis is a reuploaded item from
-    a creator who wishes to remain anonymous.\r\n\r\nHTML: https://ktane.timwi.de/HTML/Imbalance.html\r\nPDF:
-    https://ktane.timwi.de/PDF/Imbalance.pdf\r\n\r\nImbalance (imbalance) v1.4.0\nMaintained
-    by eXish\r\nTwitch Plays supported"
+    based on the last digit of the bomb timer.\n\r\nHTML: https://ktane.timwi.de/HTML/Imbalance.html\r\nPDF:
+    https://ktane.timwi.de/PDF/Imbalance.pdf\r\n\r\nImbalance (imbalance) v1.4.0\nModule
+    by BakersDozenBagels, maintained by eXish\r\nTwitch Plays supported"
   version: 1.4.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 451e6d945db0d1b46b46c4ff740dea45, type: 3}
